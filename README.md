@@ -4,11 +4,11 @@ Dotfiles
 
 ## Programming languages
 
--[ ] JavaScript
-  -[ ] Node.js
-  -[ ] Vue.js
--[ ] Python
--[ ] Java
+- [ ] JavaScript
+  - [ ] Node.js
+  - [ ] Vue.js
+- [ ] Python
+- [ ] Java
 
 ## Tools
 
