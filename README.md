@@ -6,8 +6,12 @@ Dotfiles
 
 - [ ] JavaScript
   - [ ] Node.js
+    - [ ] NPM
+    - [ ] NVM
   - [ ] Vue.js
+    - [ ] VueCli
 - [ ] Python
+  - [ ] pip3
 - [ ] Java
 
 ## Tools
@@ -48,3 +52,10 @@ Dotfiles
     - [ ] default
     - [ ] gnuykeaj
     - [ ] slacker
+- [ ] Terminal Tools
+  - [ ] grep
+  - [ ] curl
+  - [ ] fzf
+  - [ ] pydoc3
+  - [ ] cron  
+  - [ ] theF*ck
